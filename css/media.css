@@ -1,0 +1,432 @@
+
+@media (min-width: 1200px ) and (max-width: 1400px) {
+    
+}
+@media (min-width: 992px ) and (max-width: 1200px) {
+    .navbar .nav-item {
+        margin-left: 38px;
+    }
+    #banner h1 {
+        padding-right: 120px;
+    }
+    #story .story-info {
+        padding-right: 40px;
+    }
+    .bttop {
+        width: 40px;
+        height: 40px;
+        right: 30px;
+    }
+    .bttop2 {
+        bottom: 80px;
+    }
+    .bttop .arrow {
+        transform: scale(.8);
+        margin-left: -2px;
+        -webkit-transform: scale(.8);
+        -moz-transform: scale(.8);
+        -ms-transform: scale(.8);
+        -o-transform: scale(.8);
+    }
+}
+@media (min-width: 768px ) and (max-width: 992px) {
+    .navbar .nav-item {
+        margin-left: 20px;
+    }
+    .navbar .free-trial {
+        margin-left: 20px;
+    }
+    #banner {
+        background: url('../images/banner.jpg') center/cover no-repeat;
+        padding-top: 250px;
+        padding-bottom: 250px;
+    }
+    #banner h1 {
+        font: 600 50px/65px 'Montserrat', sans-serif;
+        color: white;
+        padding-right: 70px;
+    }
+    #story {
+        padding-top: 80px;
+        padding-bottom: 60px;
+    }
+    #story h2 {
+        margin-bottom: 50px;
+    }
+    #story .story-info {
+        padding-right: 20px;
+    }
+    #story p {
+        font: 400 14px/28px 'Montserrat', sans-serif;
+        color: #3B3A52;
+    }
+    #news {
+        padding-top: 80px;
+        padding-bottom: 89px;
+    }
+    #news .news-item {
+        margin-bottom: 20px;
+    }
+    #news .news-info {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    #news .big {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #news .small {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+    #news .play {
+        transform: scale(.8);
+        -webkit-transform: scale(.8);
+        -moz-transform: scale(.8);
+        -ms-transform: scale(.8);
+        -o-transform: scale(.8);
+    }
+    #news .big a.big-font {
+        font: 600 22px/28px 'Montserrat', sans-serif;
+        margin-top: 20px;
+    }
+    #news .small a {
+        font: 600 18px/26px 'Montserrat', sans-serif;
+        margin-top: 15px;
+    }
+    .bttop {
+        width: 40px;
+        height: 40px;
+        right: 30px;
+    }
+    .bttop2 {
+        bottom: 30px;
+    }
+    .bttop .arrow {
+        transform: scale(.8);
+        margin-left: -2px;
+        -webkit-transform: scale(.8);
+        -moz-transform: scale(.8);
+        -ms-transform: scale(.8);
+        -o-transform: scale(.8);
+    }
+
+}
+@media (min-width: 576px ) and (max-width: 767.98px) {
+    .navbar {
+        background: rgba(255, 255, 255, 0.932);
+        padding-top: 0px;
+        padding-bottom: 0px;
+        position: absolute !important;
+    }
+    .navbar-brand {
+        color: #3B3A52 !important;
+    }
+    .nav-item {
+        margin-left: 0px!important;
+    }
+    .nav-link {
+        color: #3B3A52 !important;
+    }
+    .navbar .free-trial {
+        color: white!important;
+        margin-left: 0px;
+    }
+    #banner {
+        padding-top: 150px;
+        padding-bottom: 100px;
+    }
+    #banner h1 {
+        font: 600 40px/55px 'Montserrat', sans-serif;
+        color: white;
+        padding-right: 80px;
+    }
+    #story {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    #story h2 {
+        margin-bottom: 30px;
+    }
+    #story .story-info {
+        padding-right: 20px;
+    }
+    #whyus .why-us-item {
+        margin-top: 40px;
+    }
+    #news {
+        padding-top: 80px;
+        padding-bottom: 89px;
+    }
+    #news .news-item {
+        margin-bottom: 20px;
+    }
+    #counter {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #counter .counter, .counter-group {
+        font: 500 52px/60px 'Montserrat', sans-serif;
+    }
+    #contact .contact-us-bg p {
+        margin-bottom: 50px;
+        margin-right: 50px;
+    }
+
+}
+@media (max-width: 575.98px) {
+
+    /* Navbar Media Start */
+
+    .navbar {
+        background: rgba(255, 255, 255, 0.932);
+        padding-top: 0px;
+        padding-bottom: 0px;
+        position: absolute !important;
+    }
+    .navbar-brand {
+        color: #3B3A52 !important;
+    }
+    .nav-item {
+        margin-left: 0px!important;
+    }
+    .nav-link {
+        color: #3B3A52 !important;
+    }
+    .navbar .free-trial {
+        color: white!important;
+        margin-left: 0px;
+    }
+
+    /* Navbar Media End */
+    /* Banner Media Start */
+
+    #banner {
+        background: url('../images/banner.jpg') center/cover no-repeat;
+        padding-top: 150px;
+        padding-bottom: 100px;
+    }
+    #banner h1 {
+        font: 600 40px/55px 'Montserrat', sans-serif;
+        color: white;
+        padding-right: 0px;
+    }
+
+    /* Banner Media End */
+    /* Our Story Media Start */
+
+    #story {
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+    #story h2 {
+        margin-bottom: 30px;
+    }
+    #story .story-info {
+        padding-right: 10px;
+    }
+
+    /* Our Story Media End */
+    /* Why Us Media Start */
+
+    #whyus {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+    #whyus .why-us-item {
+        margin-top: 40px;
+    }
+
+    /* Why Us Media End */
+    /* News Media Start */
+
+    #news {
+        padding-top: 80px;
+        padding-bottom: 89px;
+    }
+    #news .news-item {
+        margin-bottom: 20px;
+    }
+    #news .news-info {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    #news .big {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #news .small {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+    #news .play {
+        transform: scale(.8);
+        -webkit-transform: scale(.8);
+        -moz-transform: scale(.8);
+        -ms-transform: scale(.8);
+        -o-transform: scale(.8);
+    }
+    #news .big a.big-font {
+        font: 600 22px/28px 'Montserrat', sans-serif;
+        margin-top: 20px;
+    }
+    #news .small a {
+        font: 600 18px/26px 'Montserrat', sans-serif;
+        margin-top: 15px;
+    }
+
+    /* News Media End */
+    /* Counter Up media Start */
+
+    #counter {
+        padding-top: 20px;
+        padding-bottom: 60px;
+    }
+    #counter .counter, .counter-group {
+        font: 500 50px/60px 'Montserrat', sans-serif;
+    }
+    #counter .col-12 {
+        padding-top: 60px;
+    } 
+
+    /* Counter Up media End */
+    /* Fans Media Start */
+
+    #fans {
+        padding-top: 80px;
+        padding-bottom: 120px;
+    }
+    #fans .fans-item p {
+        font: 400 12px/20px 'Montserrat', sans-serif;
+        padding: 10px 10px;
+    }
+    #fans .fans-img {
+        width: 30px;
+        height: 30px;
+    }
+    #fans .arrow.left {
+        top: 15px;
+    }
+    #fans .arrow.right {
+        top: 10px;
+    }
+
+    /* Fans Media End */
+    /* Contact Us Media Start */
+
+    .contact-us-bg {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    #contact .contact-us-bg p {
+        margin-bottom: 50px;
+    }
+
+    /* Contact Us Media End */
+    /* Faq Media Start */
+
+    #faq {
+        padding-top: 80px;
+    }
+    #faq .faq-item {
+        padding: 15px;
+    }
+    #faq .faq-head h5 {
+        font: 600 14px/18px 'Montserrat', sans-serif;
+        margin-left: 5px;
+    }
+
+    /* Faq Media End */
+    /* Partners Media Start */
+
+    #partners {
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+
+    /* Partners Media End */
+    /* Back To Top Media Start */
+
+    .bttop {
+        width: 30px;
+        height: 30px;
+        right: 30px;
+    }
+    .bttop2 {
+        bottom: 30px;
+    }
+    .bttop .arrow {
+        transform: scale(.5);
+        margin-left: -2px;
+        -webkit-transform: scale(.5);
+        -moz-transform: scale(.5);
+        -ms-transform: scale(.5);
+        -o-transform: scale(.5);
+    }
+    /* Posts Page Media Start */
+    /* Tips Media Start */
+
+    #posts-page #tips {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    } 
+    #posts-page #tips h3 {
+        font: 700 22px/30px 'Montserrat', sans-serif;
+    } 
+
+    /* Tips Media Start */
+    /* Posts Page Media End*/
+    /* Search-s Page Media Start */
+
+    #search-s #search h4 {
+        font: 600 30px/50px 'Montserrat', sans-serif;
+        color: #070622;
+    }
+
+    /* Search-s Page Media End */
+    /* Contact Page Media Start */
+    /* Contact info Section Start */
+
+    
+
+    /* Contact info Section End */
+    /* Contact Page Media End */
+    #contact-us #s-contact .msg-box {
+        padding: 58px 20px 48px 20px;
+    }
+
+    /* Back To Top Media End */
+    @media (min-width: 500px) and (max-width: 576px) {
+        
+        #news .big {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        }
+        #news .play {
+            transform: scale(1);
+            -webkit-transform: scale(1);
+            -moz-transform: scale(1);
+            -ms-transform: scale(1);
+            -o-transform: scale(1);
+        }
+        #news .big a.big-font {
+            font: 600 28px/32px 'Montserrat', sans-serif;
+            margin-top: 20px;
+        }
+        #news .small a {
+            font: 600 20px/30px 'Montserrat', sans-serif;
+            margin-top: 15px;
+        }
+        #news .small {
+            padding-top: 50px;
+            padding-bottom: 0px;
+        }
+        #fans .fans-item p {
+            font: 400 14px/20px 'Montserrat', sans-serif;
+            padding: 20px 20px;
+        }
+        #contact-us #s-contact .msg-box {
+            padding: 58px 40px 48px 40px;
+        }
+    }
+}
